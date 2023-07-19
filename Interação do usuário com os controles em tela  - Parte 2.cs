@@ -1,10 +1,10 @@
-Aqui é verificado todos os controles que são do tipo LookUpEdit, 
-e se o usuário realizou alguma edição.
-Caso tenha sido feita alguma edição nos controles,
-é  criada uma nova lista, pegando uma entidade criada LayoutImportacaoExportacaoColunas,
-realizando um laço para mapear a posição que cada número irá representar na exportação para o excel,
-seguindo o padrão da planilha, iniciando na letra A e terminando na letra Z.
-Foi passado o valor "" como zero, permitindo que o usuário possa deixar colunas vazias no excel caso queira.
+'Aqui é verificado todos os controles que são do tipo LookUpEdit, 
+'e se o usuário realizou alguma edição.
+'Caso tenha sido feita alguma edição nos controles,
+'é  criada uma nova lista, pegando uma entidade criada LayoutImportacaoExportacaoColunas,
+'realizando um laço para mapear a posição que cada número irá representar na exportação para o excel,
+'seguindo o padrão da planilha, iniciando na letra A e terminando na letra Z.
+'Foi passado o valor "" como zero, permitindo que o usuário possa deixar colunas vazias no excel caso queira.
 
 
 
