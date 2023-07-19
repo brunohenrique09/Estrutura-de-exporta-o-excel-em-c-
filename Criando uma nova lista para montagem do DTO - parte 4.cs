@@ -1,8 +1,8 @@
-Aqui inicia a montagem dos dados que serão exportados pras colunas que foram mapeadas pela seleção do usuário anteriormente.
-         É utilizada a entidade  colunasExcel, que é mapeada especificamente pra ser utilizada pro método de exportação
-         CreateExcel();		 
+     'Aqui inicia a montagem dos dados que serão exportados pras colunas que foram mapeadas pela seleção do usuário anteriormente.
+     'É utilizada a entidade  colunasExcel, que é mapeada especificamente pra ser utilizada pro método de exportação
+     'CreateExcel();		 
    
-        pra exemplificar a entidade, coloquei uma propriedade como exemplo.
+        'pra exemplificar a entidade, coloquei uma propriedade como exemplo.
 		
 		 /// <summary>
         /// Representa o campo A.
@@ -14,12 +14,12 @@ Aqui inicia a montagem dos dados que serão exportados pras colunas que foram ma
         public string A { get; set; }
 		
 		
-		A função RetornValueColum, vai nos auxiliar nos dados que serão exportados pro excel posteriormente.
+		'A função RetornValueColum, vai nos auxiliar nos dados que serão exportados pro excel posteriormente.
 		
 		
 		
- OBS: Antes de iniciar o trecho a baixo, tem toda a parte de validação  dos metodos anteriores que não coloquei pra
- não ficar ainda mais extenso o código.
+ 'OBS: Antes de iniciar o trecho a baixo, tem toda a parte de validação  dos metodos anteriores que não coloquei pra
+ 'não ficar ainda mais extenso o código.
  
  _lstExportacaoColunaMovimento.ForEach(d =>
         {
