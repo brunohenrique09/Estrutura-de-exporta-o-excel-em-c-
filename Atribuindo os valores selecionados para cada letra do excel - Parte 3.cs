@@ -1,11 +1,11 @@
-Aqui foi feita uma função que sera utilizada no proximo método.
+'''Aqui foi feita uma função que sera utilizada no proximo método.
 
-O Swith Case  da continuidade ao processo de montagem da planilha.
-Os valores dos cases fazem referencia ao dicionário criado anteriormente.
-Em cada case, pegamos a letra que o usuário escreveu atraves da seleção do combo.
-CmbGrupo.Text = Letra
-Atribuimos o valor da letra que o usuário selecionou no combo, e o case faz referência a qual campo o usuário selecionou no passo anterior (parte 2)
-Assim sabemos qual é o combo, e definimos a letra que será a posição dentro do excel.
+'O Swith Case  da continuidade ao processo de montagem da planilha.
+'Os valores dos cases fazem referencia ao dicionário criado anteriormente.
+'Em cada case, pegamos a letra que o usuário escreveu atraves da seleção do combo.
+'CmbGrupo.Text = Letra
+'Atribuimos o valor da letra que o usuário selecionou no combo, e o case faz referência a qual campo o usuário selecionou no passo anterior (parte 2)
+'Assim sabemos qual é o combo, e definimos a letra que será a posição dentro do excel.
 
 
 
