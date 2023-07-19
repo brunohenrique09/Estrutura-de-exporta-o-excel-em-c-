@@ -1,7 +1,7 @@
-'Dicionários criados para exportação.
-'Aqui foram criados os dicionários com o nome de cada combo referente aos campos que serão utilizados
-'para retornar os dados conforme seleção do usuário.
-'O dicionario de posição, faz referencia as colunas do excel, iniciando em A e terminando em Z.
+'''Dicionários criados para exportação.
+'''Aqui foram criados os dicionários com o nome de cada combo referente aos campos que serão utilizados
+'''para retornar os dados conforme seleção do usuário.
+'''O dicionario de posição, faz referencia as colunas do excel, iniciando em A e terminando em Z.
 
  
 
