@@ -1,7 +1,7 @@
-Essa é a função que é utilizada na parte anterior.  Ela é responsável por retornadas os dados da entidade
-PropostaEntradaExportacaoMovimento. Após passar todos os dados, observe na parte parte final do projeto,
-nossa lista adiciona todos os valores referenciados na entidade colunasExcel, e estará pronta pra ser exportada.
->> _lstColunasExcel.Add(colunasExcel);  <<
+'Essa é a função que é utilizada na parte anterior.  Ela é responsável por retornadas os dados da entidade
+'PropostaEntradaExportacaoMovimento. Após passar todos os dados, observe na parte parte final do projeto,
+'nossa lista adiciona todos os valores referenciados na entidade colunasExcel, e estará pronta pra ser exportada.
+'>> _lstColunasExcel.Add(colunasExcel);  <<
   
   public string RetornValueColum(PropostaEntradaExportacaoMovimento dados, string nomeCombo)
     {
